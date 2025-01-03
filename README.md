@@ -1,6 +1,6 @@
 # Calculadora de Descontos - Java
 
-Este repositório contém o código para um simples **programa de calculadora de descontos progressivos** desenvolvido como parte dos meus estudos em Java. O objetivo do programa é calcular o valor final de uma compra após aplicar descontos progressivos com base no valor total da compra.
+Este repositório contém o código para um simples **programa de calculadora de descontos progressivos** desenvolvido como parte dos meus estudos em Java e do Desáfio 100Days of Code. O objetivo do programa é calcular o valor final de uma compra após aplicar descontos progressivos com base no valor total da compra.
 ## Descrição
 <img src="https://github.com/user-attachments/assets/68347dfa-ad74-46a9-af5f-6f8916e3fb04" style="width: 50px;"> <br><br>
 O programa funciona da seguinte maneira:
